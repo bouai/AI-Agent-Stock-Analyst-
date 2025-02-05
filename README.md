@@ -2,9 +2,7 @@
 </br>
 AI Portfolio Item No # 1
 </br>
-Author - Abhishek Singh 
-</br>
-MS Azure AI Engineer 
+Author - Abhishek Singh (AI Engineer) 
 </br>
 
 
